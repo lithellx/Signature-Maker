@@ -1,6 +1,8 @@
 # Signature-Maker
 Simple AOB to Signature & Mask Converter for my projects.
 
+[![Signature-Maker](https://img.shields.io/github/downloads/lithellx/Signature-Maker/total?style=for-the-badge&label=RiotLogin%20Downloads&color=red)]()
+
 **Don't use * instead of ??.**
 
 Type your array of bytes and click convert button to get your signature and mask.
