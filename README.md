@@ -1,7 +1,7 @@
 # Signature-Maker
 Simple AOB to Signature & Mask Converter for my projects.
 
-[![Signature-Maker](https://img.shields.io/github/downloads/lithellx/Signature-Maker/total?style=for-the-badge&label=RiotLogin%20Downloads&color=red)]()
+[![Signature-Maker](https://img.shields.io/github/downloads/lithellx/Signature-Maker/total?style=for-the-badge&label=Signature%20Maker%20Downloads&color=red)]()
 
 **Don't use * instead of ??.**
 
